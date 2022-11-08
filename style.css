@@ -24,7 +24,7 @@ main {
     justify-content: center;
     /* horizontally */
     width: 50%;
-    margin: 1%;
+    margin: 1% 0 1%;
     font-size: 2rem;
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
